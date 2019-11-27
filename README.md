@@ -17,7 +17,7 @@ The following environment variables must be set.
 
 | Key           | Value                                    |
 | :---          | :---                                     |
-| LOKI_ENDPOINT | http://<loki server ip>/loki/api/v1/push |
+| LOKI_ENDPOINT | http://xxx.xxx.xxx.xxx/loki/api/v1/push |
 | SERVICE_NAME  | Unique service name                      |
 
 Register Lambda to the log group subscription you want to send to Loki.
