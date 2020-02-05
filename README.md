@@ -1,4 +1,4 @@
-# CloudWatchLogsToLoki
+![facebook_cover_photo_1](https://user-images.githubusercontent.com/16132069/73810242-3479c800-4819-11ea-87f4-0f0747a9cc05.png)
 
 Lambda function to send tab-delimited log output to CloudWatch Logs to Grafana Loki.
 
